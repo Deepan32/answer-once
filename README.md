@@ -2,8 +2,6 @@
 
 **Small kitchens answer each question once. AI answers everyone.**
 
-Built during the Meta Global AI Developer Hackathon (Oct 27 – Nov 4, 2026). All code in this repo was written during the hackathon.
-
 ## MVP
 1. Customers send questions (chat or simulator)
 2. Similar pending questions are grouped ("8 waiting")
